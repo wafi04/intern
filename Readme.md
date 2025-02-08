@@ -1,4 +1,4 @@
-# Project Name
+# CommentUI
 
 > This project can be handling fitur comment user using react for frontend and backend using .net. For example:  
 > This project consists of a backend API (`CommentApi`) and a frontend application (`FE_TEST`). It uses Docker for database management and provides a simple CLI via `makefile` to streamline development tasks.
